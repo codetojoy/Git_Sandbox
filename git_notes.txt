@@ -1,0 +1,38 @@
+
+LOCAL
+
+terms
+	add, commit -- 2 stages in local only (see push for remote)
+	status -- self-evident
+	
+REMOTE
+
+terms
+	clone -- pull from server
+	fetch -- sync with others' changes (pull only)
+	pull  -- like fetch but with merge
+	origin - default remote repo from which clone came
+	push  -- move changes up to remote repo
+	
+SSH username@server/path_to_repo
+e.g. git@github.com/codetojoy/Git_Sandbox.git
+
+>>> pull from remote to a new directory 
+git clone   git://github.com/codetojoy/Git_Sandbox.git
+
+>>> see branches
+git branch -r
+
+>>> push to remote (from local commits)
+git push git@github.com:codetojoy/Git_Sandbox.git
+-- use --dry-run !
+
+BASIC CYCLE:
+
+1. git clone   git://github.com/codetojoy/Git_Sandbox.git
+2. make changes
+3. git add
+4. git commit
+5. git push git@github.com:codetojoy/Git_Sandbox.git
+6. (in other dir) git pull
+
