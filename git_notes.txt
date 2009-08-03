@@ -36,3 +36,7 @@ BASIC CYCLE:
 5. git push git@github.com:codetojoy/Git_Sandbox.git
 6. (in other dir) git pull
 
+OTHERS:
+
+git pull origin HEAD
+-- this will sync a shadow dir with changes from the repo
