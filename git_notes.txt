@@ -4,6 +4,8 @@ LOCAL
 terms
 	add, commit -- 2 stages in local only (see push for remote)
 	status -- self-evident
+        branch -- make a new branch, or for status of branches
+        checkout -- switch branches
 	
 REMOTE
 
@@ -40,3 +42,11 @@ OTHERS:
 
 git pull origin HEAD
 -- this will sync a shadow dir with changes from the repo
+
+BRANCH CYCLE:
+
+git branch my_work
+git checkout my_work
+// do stuff (add and commit)
+git checkout master
+git merge my_work
