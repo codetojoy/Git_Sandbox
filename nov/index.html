@@ -1,0 +1,59 @@
+<html>
+<head>
+<script src="js/jquery-2.1.4.js"></script>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+
+<!-- Include the plugin's CSS and JS: -->
+<script type="text/javascript" src="js/bootstrap-multiselect.js"></script>
+<link rel="stylesheet" href="css/bootstrap-multiselect.css" type="text/css"/>
+
+<!-- Initialize the plugin: -->
+<script type="text/javascript">
+    var business = false;
+    var nature = false;
+    var exists = false;
+
+    $(document).ready(function() {
+        $('#exists-type').multiselect({
+            onChange: function(option, checked, select) {
+                alert('Changed option ' + $(option).val() + '.');
+            }
+        });
+        $('#layer-type').multiselect({
+            onChange: function(option, checked, select) {
+                alert('Changed option ' + $(option).val() + '.');
+            }
+        });
+    });
+   
+    function handler() {
+        alert("HOOZAH");
+    }
+</script>
+
+</head>
+<body>
+<h3>hello there</h3>
+<hr/>
+<select id="layer-type" multiple="multiple">
+    <option value="Business">Business</option>
+    <option value="Monument">Monument</option>
+    <option value="Nature">Nature</option>
+    <option value="Road">Road</option>
+    <option value="Structure">Structure</option>
+    <option value="Worship">Worship</option>
+</select>
+<hr/>
+<select id="exists-type" multiple="multiple">
+    <option value="Exists">Exists</option>
+    <option value="DoesNotExist">Does not exist</option>
+</select>
+<hr/>
+<button id="myButton" onclick="handler()" >Go</button>
+</body>
+</html>
