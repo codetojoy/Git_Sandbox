@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='UTF-8'?><rss version="2.0" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml"><channel><title>Rows in view 'Food Inspections'</title><link>https://data.cityofchicago.org/blists/zzzz-zzzz</link><description>Recently updated rows in view 'Food Inspections'</description><language>en-us</language><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Row 44</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1591918&lt;/td>
+&lt;td style="vertical-align: top;">BEVERLY MONTESSORI SCHOOL&lt;/td>
+&lt;td style="vertical-align: top;">BEVERLY MONTESSORI SCHOOL&lt;/td>
+&lt;td style="vertical-align: top;">2215532&lt;/td>
+&lt;td style="vertical-align: top;">Daycare (2 - 6 Years)&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">9916 S WALDEN PKWY &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60643&lt;/td>
+&lt;td style="vertical-align: top;">12/18/2015&lt;/td>
+&lt;td style="vertical-align: top;">Canvass&lt;/td>
+&lt;td style="vertical-align: top;">Out of Business&lt;/td>
+&lt;td style="vertical-align: top;">&amp;nbsp;&lt;/td>
+&lt;td style="vertical-align: top;">41.71334157464564&lt;/td>
+&lt;td style="vertical-align: top;">-87.66782942584904&lt;/td>
+&lt;td style="vertical-align: top;">(41.71334157464564, -87.66782942584904)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.71334157464564 -87.66782942584904</gml:pos></gml:Point></georss:where><georss:point>41.71334157464564 -87.66782942584904</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:F263C9EC-AA3D-4BBF-97C5-58D85E194E37:2015-12-24 04:12:27.159</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 38</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1516751&lt;/td>
+&lt;td style="vertical-align: top;">SUPERMERCADO LOS CUATES&lt;/td>
+&lt;td style="vertical-align: top;">SUPERMERCADO LOS CUATES&lt;/td>
+&lt;td style="vertical-align: top;">2442346&lt;/td>
+&lt;td style="vertical-align: top;">Grocery Store&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">4531-4535 W MARQUETTE RD &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60629&lt;/td>
+&lt;td style="vertical-align: top;">12/18/2015&lt;/td>
+&lt;td style="vertical-align: top;">License&lt;/td>
+&lt;td style="vertical-align: top;">Fail&lt;/td>
+&lt;td style="vertical-align: top;">36. LIGHTING: REQUIRED MINIMUM FOOT-CANDLES OF LIGHT PROVIDED, FIXTURES SHIELDED - Comments: OBSERVED NO LIGHT SHIELDS IN THE REAR DELI/BUTCHER AREA, INSTRUCTED TO PROVIDE. | 32. FOOD AND NON-FOOD CONTACT SURFACES PROPERLY DESIGNED, CONSTRUCTED AND MAINTAINED - Comments: OBSERVED CARDBOARD ON REAR STORAGE SHELVES,INSTRUCTED TO REMOVE. | 30. FOOD IN ORIGINAL CONTAINER, PROPERLY LABELED: CUSTOMER ADVISORY POSTED AS NEEDED - Comments: OBSERVED SALSA AND PRE-PACKAGED CANDY NOT LABELED, INSTRUCTED ON PROPER LABELING. | 35. WALLS, CEILINGS, ATTACHED EQUIPMENT CONSTRUCTED PER CODE: GOOD REPAIR, SURFACES CLEAN AND DUST-LESS CLEANING METHODS - Comments: OBSERVED THE CEILING IN THE WALK-IN COOLER NOT CLEAN, INSTRUCTED TO CLEAN. | 34. FLOORS: CONSTRUCTED PER CODE, CLEANED, GOOD REPAIR, COVING INSTALLED, DUST-LESS CLEANING METHODS USED - Comments: OBSERVED THE REAR FLOOR DRAIN NOT CLEAN, INSTRUCTED TO CLEAN. | 21. * CERTIFIED FOOD MANAGER ON SITE WHEN POTENTIALLY HAZARDOUS FOODS ARE  PREPARED AND SERVED - Comments: OBSERVED NO PROOF OF ENROLLMENT FOR  SANITATION CLASS/CITY OF CHICAGO CERTIFICATE FOR THE NEW OWNER. SERIOUS VIOLATION 7-38-012a. SCHOOL INFO GIVEN. NO CERTIFIED CHICAGO FOOD SERVICE MANAGER ON PREMISES AT THIS TIME WHEN PREMISES SLICING DELI HAM AND CHEESE.&lt;/td>
+&lt;td style="vertical-align: top;">41.77110726848157&lt;/td>
+&lt;td style="vertical-align: top;">-87.73591571414936&lt;/td>
+&lt;td style="vertical-align: top;">(41.77110726848157, -87.73591571414936)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.77110726848157 -87.73591571414936</gml:pos></gml:Point></georss:where><georss:point>41.77110726848157 -87.73591571414936</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:3562D531-1112-436D-8940-E3DFDAB91105:2015-12-24 04:12:27.155</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 36</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1591934&lt;/td>
+&lt;td style="vertical-align: top;">THE LORDS HANDS DAYCARE&lt;/td>
+&lt;td style="vertical-align: top;">&amp;nbsp;&lt;/td>
+&lt;td style="vertical-align: top;">2360044&lt;/td>
+&lt;td style="vertical-align: top;">Daycare Above and Under 2 Years&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">843-847 W 103RD ST &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60643&lt;/td>
+&lt;td style="vertical-align: top;">12/18/2015&lt;/td>
+&lt;td style="vertical-align: top;">Canvass&lt;/td>
+&lt;td style="vertical-align: top;">No Entry&lt;/td>
+&lt;td style="vertical-align: top;">&amp;nbsp;&lt;/td>
+&lt;td style="vertical-align: top;">41.706792177425825&lt;/td>
+&lt;td style="vertical-align: top;">-87.64452365930406&lt;/td>
+&lt;td style="vertical-align: top;">(41.706792177425825, -87.64452365930406)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.706792177425825 -87.64452365930406</gml:pos></gml:Point></georss:where><georss:point>41.706792177425825 -87.64452365930406</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:730C08B1-9274-4E5E-8F42-A7E27EBC8E83:2015-12-24 04:12:27.154</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 27</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1591957&lt;/td>
+&lt;td style="vertical-align: top;">OAATO FOODS INC.&lt;/td>
+&lt;td style="vertical-align: top;">OAATO FOODS&lt;/td>
+&lt;td style="vertical-align: top;">2431903&lt;/td>
+&lt;td style="vertical-align: top;">Restaurant&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">7118 N CLARK ST &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60626&lt;/td>
+&lt;td style="vertical-align: top;">12/18/2015&lt;/td>
+&lt;td style="vertical-align: top;">Short Form Complaint&lt;/td>
+&lt;td style="vertical-align: top;">Pass w/ Conditions&lt;/td>
+&lt;td style="vertical-align: top;">21. * CERTIFIED FOOD MANAGER ON SITE WHEN POTENTIALLY HAZARDOUS FOODS ARE  PREPARED AND SERVED - Comments: NO CERTIFED FOOD MANAGER CERTIFICATE ONSITE WHILE SERVING POTENTIALLY HAZARDOUS FOODS I.E. BEEF, CHICKEN, ETC. INSTRUCTED TO PROVIDE ORIGINIAL CERTIFICATE ONSITE AND TO HAVE THE CERTIFICATE POSTED IN PLAIN VIEWING SITE OF CUSTOMERS AT ALL TIMES WHILE OPEN AND OPERATING. SERIOUS VIOLATION 7-38-012(A)&lt;/td>
+&lt;td style="vertical-align: top;">42.012010233551145&lt;/td>
+&lt;td style="vertical-align: top;">-87.6746862866216&lt;/td>
+&lt;td style="vertical-align: top;">(42.012010233551145, -87.6746862866216)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>42.012010233551145 -87.6746862866216</gml:pos></gml:Point></georss:where><georss:point>42.012010233551145 -87.6746862866216</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:70C38A55-EED7-4BF2-AAF5-6FA6E29F61C9:2015-12-24 04:12:27.149</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 24</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1591962&lt;/td>
+&lt;td style="vertical-align: top;">KAI ZAN&lt;/td>
+&lt;td style="vertical-align: top;">KAI ZAN&lt;/td>
+&lt;td style="vertical-align: top;">2156904&lt;/td>
+&lt;td style="vertical-align: top;">Restaurant&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">2557-2557 1/2 W CHICAGO AVE &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60622&lt;/td>
+&lt;td style="vertical-align: top;">12/18/2015&lt;/td>
+&lt;td style="vertical-align: top;">Complaint&lt;/td>
+&lt;td style="vertical-align: top;">Fail&lt;/td>
+&lt;td style="vertical-align: top;">8. SANITIZING RINSE FOR EQUIPMENT AND UTENSILS:  CLEAN, PROPER TEMPERATURE, CONCENTRATION, EXPOSURE TIME - Comments: OBSERVED LOW TEMPERATURE DISHMACHINE WITH NO SANITIZING RINSE DETECTED (0 PPM CHLORINE) AT THE FINAL RINSE.  MANAGEMENT INSTRUCTED TO REPAIR SO THAT 100PPM CHLORINE IS DETECTED AT THE FINAL RINSE.  CRITICAL VIOLATION 7-38-030. | 16. FOOD PROTECTED DURING STORAGE, PREPARATION, DISPLAY, SERVICE AND TRANSPORTATION - Comments: FOOD NOT PROTECTED FROM CONTAMINATION DURING PREPARATION.  OBSERVED A VACUUM PACKAGING MACHINE IN THE REAR STORAGE AREA AND VACUUM PACKAGED FISH LOCATED IN THE LINE PREP COOLER.  MANAGEMENT STATED THAT THEY VACUUM PACKAGE THE FISH ONSITE WITH THE MACHINE.  NO APPROVED HACCP PLAN LOCATED ON THE PREMISES.  MANAGEMENT INSTRUCTED TO CEASE USING MACHINE UNTIL A HACCP PLAN HAS BEEN APPROVED BY CDPH.  SERIOUS VIOLATION 7-38-005A. | 18. NO EVIDENCE OF RODENT OR INSECT OUTER OPENINGS PROTECTED/RODENT PROOFED, A WRITTEN LOG SHALL BE MAINTAINED AVAILABLE TO THE INSPECTORS - Comments: OBSERVED EVIDENCE OF RODENT ACTIVITY ON THE PREMISES.  APPROXIMATELY 100 MOUSE DROPPINGS WERE OBSERVED ON THE FLOOR AND STORAGE SHELVES OF THE REAR STORAGE AREA AND FOOD PREP AREA BEHIND THE ICE MACHINE.  ADDITIONAL PEST CONTROL SERVICE IS NEEDED TO MINIMIZE OR ELIMINATE THE PEST ACTIVITY.  SERIOUS VIOLATION 7-38-020. | 28. * INSPECTION REPORT SUMMARY DISPLAYED AND VISIBLE TO ALL CUSTOMERS - Comments: NO INSPECTION REPORT SUMMARY WAS POSTED IN THE ESTABLISHMENT.  MANAGEMENT WAS GIVEN A COPY OF TODAY'S INSPECTION REPORT SUMMARY AND WAS INSTRUCTED TO POST IT IN VIEW OF ALL CUSTOMERS.  SERIOUS VIOLATION 7-42-010B. | 34. FLOORS: CONSTRUCTED PER CODE, CLEANED, GOOD REPAIR, COVING INSTALLED, DUST-LESS CLEANING METHODS USED - Comments: DETAIL CLEAN THE FLOOR OF THE FOOD PREP AREA AND REAR STORAGE AREA ESPECIALLY BEHIND EQUIPMENT AND ALONG THE WALLS. | 45. FOOD HANDLER REQUIREMENTS MET - Comments: NO FOOD HANDLER CERTIFICATES ON SITE AT THIS TIME OF INSPECTION. INSTRUCTED MANAGER TO HAVE CERTIFICATES ON SITE AT ALL TIMES.&lt;/td>
+&lt;td style="vertical-align: top;">41.89559157280934&lt;/td>
+&lt;td style="vertical-align: top;">-87.69163313910478&lt;/td>
+&lt;td style="vertical-align: top;">(41.89559157280934, -87.69163313910478)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.89559157280934 -87.69163313910478</gml:pos></gml:Point></georss:where><georss:point>41.89559157280934 -87.69163313910478</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:FC8D3DA3-3090-4431-A474-F32496F95C54:2015-12-24 04:12:27.147</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 18</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1448133&lt;/td>
+&lt;td style="vertical-align: top;">MISOYA CHICAGO INC.&lt;/td>
+&lt;td style="vertical-align: top;">&amp;nbsp;&lt;/td>
+&lt;td style="vertical-align: top;">2422910&lt;/td>
+&lt;td style="vertical-align: top;">Restaurant&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">213 E OHIO ST &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60611&lt;/td>
+&lt;td style="vertical-align: top;">12/18/2015&lt;/td>
+&lt;td style="vertical-align: top;">License&lt;/td>
+&lt;td style="vertical-align: top;">Pass w/ Conditions&lt;/td>
+&lt;td style="vertical-align: top;">19. OUTSIDE GARBAGE WASTE GREASE AND STORAGE AREA; CLEAN, RODENT PROOF, ALL CONTAINERS COVERED - Comments: PREMISES HAS NO COMMERCIAL GARBAGE REMOVAL SERVICE AS REQUIRED BY CITY CODE. MUST PROVIDE. SERIOUS VIOLATION 7-38-020. NO CITATION ISSUED.&lt;/td>
+&lt;td style="vertical-align: top;">41.8924589403376&lt;/td>
+&lt;td style="vertical-align: top;">-87.62211240129513&lt;/td&gt;
+&lt;td style="vertical-align: top;">(41.8924589403376, -87.62211240129513)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.8924589403376 -87.62211240129513</gml:pos></gml:Point></georss:where><georss:point>41.8924589403376 -87.62211240129513</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:863EC24B-1665-47C1-B017-6E0E7198A276:2015-12-24 04:12:27.144</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 16</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1591974&lt;/td>
+&lt;td style="vertical-align: top;">BUNNY THE MICRO BAKERY&lt;/td>
+&lt;td style="vertical-align: top;">BUNNY THE MICRO BAKERY&lt;/td>
+&lt;td style="vertical-align: top;">2437483&lt;/td>
+&lt;td style="vertical-align: top;">Restaurant&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">2928 N BROADWAY &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60657&lt;/td>
+&lt;td style="vertical-align: top;">12/21/2015&lt;/td>
+&lt;td style="vertical-align: top;">License&lt;/td>
+&lt;td style="vertical-align: top;">Fail&lt;/td>
+&lt;td style="vertical-align: top;">8. SANITIZING RINSE FOR EQUIPMENT AND UTENSILS:  CLEAN, PROPER TEMPERATURE, CONCENTRATION, EXPOSURE TIME - Comments: OBSERVED THE LOW TEMPERATURE DISH MACHINE NOT SANITIZING AT TIME OF INSPECTION. INSTRUCTED FACILITY TO REPAIR AND MAINTAIN SO MACHINE SANITIZES CORRECTELY. CRITICAL VIOLATION 7-38-030 | 11. ADEQUATE NUMBER, CONVENIENT, ACCESSIBLE, DESIGNED, AND MAINTAINED - Comments: OBSERVED NO EXPOSED HANDSINK CONVENIENT OR ACCESSIBLE TO BASEMENT FOOD PREP AREA. INSTRUCTED FACILITY TO INSTALL AND MAINTAIN AN EXPOSED HANDSINK ADJACENT TO THE BASEMENT FOOD PREP AREA WITH HOT AND COLD RUNNING WATER UNDER CITY PRESSURE, SOAP, AND PAPER TOWELS. CRITICAL VIOLATION 7-38-030. | 16. FOOD PROTECTED DURING STORAGE, PREPARATION, DISPLAY, SERVICE AND TRANSPORTATION - Comments: OBSERVED THE BASEMENT FOOD PREP AREA DIRECTLY UNDER EXPOSED WASTEWATER PIPES. INSTRUCTED FACILITY TO RELOCATE SAID PREP AREA SO IT IS NOT UNDER ANY EXPOSED WASTEWATER PIPES AND TO MAINTAIN. SERIOUS VIOLATION 7-38-005(A). | 18. NO EVIDENCE OF RODENT OR INSECT OUTER OPENINGS PROTECTED/RODENT PROOFED, A WRITTEN LOG SHALL BE MAINTAINED AVAILABLE TO THE INSPECTORS - Comments: INCOMPLETE PEST CONTROL LOG BOOK ON SITE-NO IDPH LICENSE OR LICENSE NUMBER FOR TERMINIX IN BOOK. INSTRUCTED FACILITY TO OBTAIN AND MAINTAIN. SERIOUS VIOLATION 7-38-020.&lt;/td>
+&lt;td style="vertical-align: top;">41.93575073609261&lt;/td>
+&lt;td style="vertical-align: top;">-87.64440194878645&lt;/td>
+&lt;td style="vertical-align: top;">(41.93575073609261, -87.64440194878645)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.93575073609261 -87.64440194878645</gml:pos></gml:Point></georss:where><georss:point>41.93575073609261 -87.64440194878645</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:7AD83A0D-70A5-4FA6-A71A-9F4AA490F8BA:2015-12-24 04:12:27.142</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 8</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1386617&lt;/td>
+&lt;td style="vertical-align: top;">PACKED DUMPLINGS REIMAGINED&lt;/td>
+&lt;td style="vertical-align: top;">&amp;nbsp;&lt;/td>
+&lt;td style="vertical-align: top;">2433063&lt;/td>
+&lt;td style="vertical-align: top;">Restaurant&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">1321 E 57TH ST &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60637&lt;/td>
+&lt;td style="vertical-align: top;">12/22/2015&lt;/td>
+&lt;td style="vertical-align: top;">License&lt;/td>
+&lt;td style="vertical-align: top;">Fail&lt;/td>
+&lt;td style="vertical-align: top;">18. NO EVIDENCE OF RODENT OR INSECT OUTER OPENINGS PROTECTED/RODENT PROOFED, A WRITTEN LOG SHALL BE MAINTAINED AVAILABLE TO THE INSPECTORS - Comments: OBSERVED SIDE DOOR NOT TIGHT FITTING ALONG BOTTOM. MUST RODENT PROOF DOOR TO BE TIGHT FITTING | 19. OUTSIDE GARBAGE WASTE GREASE AND STORAGE AREA; CLEAN, RODENT PROOF, ALL CONTAINERS COVERED - Comments: OBSERVED OUTSIDE GARBAGE DUMPSTER OVER FLOWING WITH TRASH.MUST REMOVE TRASH AND KEEP LIDS TIGHT FITTING. | 16. FOOD PROTECTED DURING STORAGE, PREPARATION, DISPLAY, SERVICE AND TRANSPORTATION - Comments: OBSERVED NO BARRIER AT ENTRY TO REAR PREP AREA.MUST PROVIDE BARRIER TO PROTECT FOOD IN REAR PREP AREA | 34. FLOORS: CONSTRUCTED PER CODE, CLEANED, GOOD REPAIR, COVING INSTALLED, DUST-LESS CLEANING METHODS USED - Comments: MUST REPAIR OR REPLACE MISSING FLOOR TILE AT SIDE ENTRY DOOR AND HOLE IN FLOOR NEAR GREASE TRAP IN BASEMENT,LOOSE FLOOR PANEL IN WALK IN COOLER.MUST CLEAN DEBRI FROM FLOOR IN DRINK AREA. | 35. WALLS, CEILINGS, ATTACHED EQUIPMENT CONSTRUCTED PER CODE: GOOD REPAIR, SURFACES CLEAN AND DUST-LESS CLEANING METHODS - Comments: MUST SEAL WALL BASES IN HALL WAY LEADING TO TOILETROOMS.MUST REPAIR OR REPLACE MISSING WALL TRIM IN DINING AREA AT BRICK WALL,HOLES IN WALL TILE IN LAST TOILETROOM.MUST CLEAN DUST BUILD UP ON WALL AND WIRES IN WALK IN COOLER. | 36. LIGHTING: REQUIRED MINIMUM FOOT-CANDLES OF LIGHT PROVIDED, FIXTURES SHIELDED - Comments: MUST PROVIDE SHATTER PROOF BULBS AT LIGHT FIXTURE ABOVE DRINK STATION AT FRONT SERVICE COUNTER.MUST REPLACE BURNTOUT LIGHT IN WALK IN COOLER. | 38. VENTILATION: ROOMS AND EQUIPMENT VENTED AS REQUIRED: PLUMBING: INSTALLED AND MAINTAINED - Comments: MUST REPAIR OR REPLACE LEAKY OVERHEAD PIPE IN BASEMENT NEAR HOT WATER TANK.MUST PROVIDE A BACKFLOW DEVICE ON ICE MACHINE AND WATER DISPENSER AT SELF SERVE COUNTER. | 41. PREMISES MAINTAINED FREE OF LITTER, UNNECESSARY ARTICLES, CLEANING  EQUIPMENT PROPERLY STORED - Comments: MUST ELEVATE ARTICLES OFF OF FLOOR AND AWAY FROM WALLS IN BASEMENT. | 45. FOOD HANDLER REQUIREMENTS MET - Comments: IDPH FOOD HANDLERS REQUIREMENTS NOT MET.MUST ENROLL AND MAINTAIN.&lt;/td>
+&lt;td style="vertical-align: top;">41.79136232333156&lt;/td>
+&lt;td style="vertical-align: top;">-87.59394375677408&lt;/td>
+&lt;td style="vertical-align: top;">(41.79136232333156, -87.59394375677408)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.79136232333156 -87.59394375677408</gml:pos></gml:Point></georss:where><georss:point>41.79136232333156 -87.59394375677408</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:B96B17BD-3B68-4ABD-BDAC-86E6D2F8D0CB:2015-12-24 04:12:27.138</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 4</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1592039&lt;/td>
+&lt;td style="vertical-align: top;">A TASTE OF NANKING&lt;/td>
+&lt;td style="vertical-align: top;">A TASTE OF NANKING&lt;/td>
+&lt;td style="vertical-align: top;">2442355&lt;/td>
+&lt;td style="vertical-align: top;">&amp;nbsp;&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">604 W BELMONT AVE &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60657&lt;/td>
+&lt;td style="vertical-align: top;">12/22/2015&lt;/td>
+&lt;td style="vertical-align: top;">License&lt;/td>
+&lt;td style="vertical-align: top;">Not Ready&lt;/td>
+&lt;td style="vertical-align: top;">&amp;nbsp;&lt;/td>
+&lt;td style="vertical-align: top;">41.94014913764849&lt;/td>
+&lt;td style="vertical-align: top;">-87.6446627167078&lt;/td>
+&lt;td style="vertical-align: top;">(41.94014913764849, -87.6446627167078)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.94014913764849 -87.6446627167078</gml:pos></gml:Point></georss:where><georss:point>41.94014913764849 -87.6446627167078</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:F537C691-CD2F-4652-AAC3-F387042EDE84:2015-12-24 04:12:27.135</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item><item><title>Row 2</title><description>&lt;table cellpadding="5">
+&lt;thead style="text-align: left;">
+&lt;tr style="font-family: sans-serif; color: #fff; background-color: #525453">&lt;th>Inspection ID&lt;/th>
+&lt;th>DBA Name&lt;/th>
+&lt;th>AKA Name&lt;/th>
+&lt;th>License #&lt;/th>
+&lt;th>Facility Type&lt;/th>
+&lt;th>Risk&lt;/th>
+&lt;th>Address&lt;/th>
+&lt;th>City&lt;/th>
+&lt;th>State&lt;/th>
+&lt;th>Zip&lt;/th>
+&lt;th>Inspection Date&lt;/th>
+&lt;th>Inspection Type&lt;/th>
+&lt;th>Results&lt;/th>
+&lt;th>Violations&lt;/th>
+&lt;th>Latitude&lt;/th>
+&lt;th>Longitude&lt;/th>
+&lt;th>Location&lt;/th>
+&lt;/tr>&lt;/thead>
+&lt;tbody>&lt;tr style="background-color: #eceefa;">&lt;td style="vertical-align: top;">1615207&lt;/td>
+&lt;td style="vertical-align: top;">SEVEN TREASURES&lt;/td>
+&lt;td style="vertical-align: top;">SEVEN TREASURES&lt;/td>
+&lt;td style="vertical-align: top;">6231&lt;/td>
+&lt;td style="vertical-align: top;">Restaurant&lt;/td>
+&lt;td style="vertical-align: top;">Risk 1 (High)&lt;/td>
+&lt;td style="vertical-align: top;">2312 S WENTWORTH AVE &lt;/td>
+&lt;td style="vertical-align: top;">CHICAGO&lt;/td>
+&lt;td style="vertical-align: top;">IL&lt;/td>
+&lt;td style="vertical-align: top;">60616&lt;/td>
+&lt;td style="vertical-align: top;">12/22/2015&lt;/td>
+&lt;td style="vertical-align: top;">Canvass&lt;/td>
+&lt;td style="vertical-align: top;">Fail&lt;/td>
+&lt;td style="vertical-align: top;">8. SANITIZING RINSE FOR EQUIPMENT AND UTENSILS:  CLEAN, PROPER TEMPERATURE, CONCENTRATION, EXPOSURE TIME - Comments: LOW TEMP DISH WASHING MACHINE WITH FINAL RINSE CL CONCENTRATION LESS THAN 10PPM. INSTRUCTED MGR TO PROVIDE PROPER CL LEVEL FOR FINAL RINSE.  CRITICAL CITAION  ISSUED 7-38-030. MACHINE IS TAGGED NOT ALLOWED TO USE. MUST CONTACT THE OFFICE OF CDPH WHEN REPAIRED. | 13. NO EVIDENCE OF RODENT OR INSECT INFESTATION, NO BIRDS, TURTLES OR OTHER ANIMALS - Comments: INSECTS INFESTATION NOTED IN KITCHEN. FOUND OVER 30 LIVE COCKROACHES CRAWLING AT KITCHEN WALLS UNDER COUNTERS. INSTRUCTED TO ELIMINATE INSECTS ACTIVITY IN ALL AFFECTED AREAS. MUST CALL PEST CONTROL SERVICE . CRITICAL CITATION ISSUED 7-38-020 | 29. PREVIOUS MINOR VIOLATION(S) CORRECTED 7-42-090 - Comments: PREVIOUS MINOR VIOLATIONS NOT CORRECTED FROM REPORT # 1527948 DATED ON 3-17-15 FOR VIOL# 32: COOLER DOOR GASKETS IN POOR REPAIR FOR 1 ST FLOOR PREP COOLERS. INSTRUCTED MGR TO CORRECT VIOLATIONS WITHIN GIVEN TIME FRAME. | 33. FOOD AND NON-FOOD CONTACT EQUIPMENT UTENSILS CLEAN, FREE OF ABRASIVE DETERGENTS - Comments: THE FOLLOWING NOT CLEAN THROUGH KITCHENS. FOOD CONTAINERS, COOLER SHELVES AND INTERIOR SERFACES, STANDING WATER IN PREP AND WALK-IN  COOLERS, SHELVES IN KITCHEN STORAGE. DOUGH MAKING SHELVES. INSTRUCTED MGR TO CLEAN AND MAINTAIN. | 34. FLOORS: CONSTRUCTED PER CODE, CLEANED, GOOD REPAIR, COVING INSTALLED, DUST-LESS CLEANING METHODS USED - Comments: FLOORS NOT CLEAN THROUGH OUT FIRST AND BASEMENT KITCHENS, INSTRUCTED TO CLEAN AND MAINTAIN. | 41. PREMISES MAINTAINED FREE OF LITTER, UNNECESSARY ARTICLES, CLEANING  EQUIPMENT PROPERLY STORED - Comments: CLUTTER NOTED THROUGH OUT FRONT COUNTER AND BASEMENT PREP AREAS. | 32. FOOD AND NON-FOOD CONTACT SURFACES PROPERLY DESIGNED, CONSTRUCTED AND MAINTAINED - Comments: RUSTY SHELVES NOTED THROUGH OUT RESTAURANT, INSTRUCTE TO REMOVE. | 33. FOOD AND NON-FOOD CONTACT EQUIPMENT UTENSILS CLEAN, FREE OF ABRASIVE DETERGENTS - Comments: DEAD COCKROACHES NOTED INSIDE PLATES AND BOWELS, ALSON ON FOOD SHELVES IN MAIN KITCHEN. INSTRUCTED TO REMOVE ALL DEAD INSECTS AND SANITIZE SURFACES. | 18. NO EVIDENCE OF RODENT OR INSECT OUTER OPENINGS PROTECTED/RODENT PROOFED, A WRITTEN LOG SHALL BE MAINTAINED AVAILABLE TO THE INSPECTORS - Comments: FRONT DOORS NOT RODENT PROOFED 1/2 INCH GAP AT BOTTOM. INSTRUCTED TO REPAIR. SERIOUS CITATION ISSUD 7-38-020. | 36. LIGHTING: REQUIRED MINIMUM FOOT-CANDLES OF LIGHT PROVIDED, FIXTURES SHIELDED - Comments: BROKEN LIGHT SHIELD AT FIST FLOOR KITCHEN INSTRUCTED TO REPLACE.&lt;/td>
+&lt;td style="vertical-align: top;">41.850556411576726&lt;/td>
+&lt;td style="vertical-align: top;">-87.63211141670075&lt;/td>
+&lt;td style="vertical-align: top;">(41.850556411576726, -87.63211141670075)&lt;br>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+</description><georss:where><gml:Point><gml:pos>41.850556411576726 -87.63211141670075</gml:pos></gml:Point></georss:where><georss:point>41.850556411576726 -87.63211141670075</georss:point><author>cocadmin</author><category></category><guid isPermaLink="false">urn:uuid:EB80B5DF-556D-4A67-9CE9-348CA9DB2EF4:2015-12-24 04:12:27.133</guid><pubDate>Thu, 24 Dec 2015 04:12:27 -0800</pubDate></item></channel></rss>
