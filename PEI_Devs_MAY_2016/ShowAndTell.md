@@ -2,6 +2,7 @@
 ### Themes
 
 * **check this out!** or ... *so good, I pay for it*
+    * beer versus productivity
 * Dev Tools
     * diff tools
     * editors (not Vim or Emacs!)
@@ -18,6 +19,6 @@
     * standing desks
     * headphones
 * recently in Slack
-    * static sites: Forestry
-    * diagram software
+    * static sites: (e.g. [Forestry.io](https://forestry.io/)
+    * diagram software (e.g. [Lucid Chart](http://lucidchart.com)
 
