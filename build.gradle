@@ -1,0 +1,9 @@
+
+apply plugin: 'java'
+
+final GradleVersion gradleVersion = GradleVersion.current()
+
+println "TRACER: ---------------------------"
+println "TRACER: Gradle version: ${gradleVersion.version}" 
+
+
