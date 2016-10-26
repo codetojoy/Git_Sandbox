@@ -20,4 +20,5 @@
 * Blink, Malcolm Gladwell 
 * [Less is More](http://amzn.to/2fdvumm)
 * [How Will You Measure Your Life?](http://amzn.to/2eE8WHX)
+* [Designing Your Life](http://amzn.to/2cGmpxE)
 
