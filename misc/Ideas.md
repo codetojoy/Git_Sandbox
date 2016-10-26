@@ -7,9 +7,9 @@
 
 ### music books
 
-* 1980s easy piano](http://bit.ly/2dH0je2
-* Simply Chopin](http://bit.ly/2e8su6G)
-* Simply Beethoven](http://bit.ly/2eJpCPb)
+* [1980s easy piano](http://bit.ly/2dH0je2)
+* [Simply Chopin](http://bit.ly/2e8su6G)
+* [Simply Beethoven](http://bit.ly/2eJpCPb)
 
 ### books
 * [The Undoing Project, Michael Lewis](http://amzn.to/2dGw0Jj)
