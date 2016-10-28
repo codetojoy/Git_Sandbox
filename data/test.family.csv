@@ -1,11 +1,31 @@
-Family,Current Capacity,2016 Enrollment,2022 Enrollment
-Bluefield,3556,3009,2879
-Gray,4326,3356,3394
-KISH,900,592,586
-Kinkora,668,420,340
-Montague,2865,1724,1541
-Morell,1140,536,466
-Rural,3944,4035,4563
-Souris,625,540,471
-Three Oaks,3730,2930,2748
-Westisle,3380,2028,1791
+Family,Metric,# Students
+Bluefield,Current Capacity,3556
+Bluefield,2016 Enrollment,3009
+Bluefield,2022 Enrollment,2879
+Gray,Current Capacity,4326
+Gray,2016 Enrollment,3356
+Gray,2022 Enrollment,3394
+KISH,Current Capacity,900
+KISH,2016 Enrollment,592
+KISH,2022 Enrollment,586
+Kinkora,Current Capacity,668
+Kinkora,2016 Enrollment,420
+Kinkora,2022 Enrollment,340
+Montague,Current Capacity,2865
+Montague,2016 Enrollment,1724
+Montague,2022 Enrollment,1541
+Morell,Current Capacity,1140
+Morell,2016 Enrollment,536
+Morell,2022 Enrollment,466
+Rural,Current Capacity,3944
+Rural,2016 Enrollment,4035
+Rural,2022 Enrollment,4563
+Souris,Current Capacity,625
+Souris,2016 Enrollment,540
+Souris,2022 Enrollment,471
+Three Oaks,Current Capacity,3730
+Three Oaks,2016 Enrollment,2930
+Three Oaks,2022 Enrollment,2748
+Westisle,Current Capacity,3380
+Westisle,2016 Enrollment,2028
+Westisle,2022 Enrollment,1791
