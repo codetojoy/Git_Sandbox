@@ -1,0 +1,14 @@
+
+- peidevs account
+- fusion table
+- https://www.google.com/fusiontables/DataSource?docid=1BYaqm91EShJqJtwGOZXWIpygO06mpug31RBcPH56
+
+- publish cards
+- https://www.google.com/fusiontables/DataSource?docid=1BYaqm91EShJqJtwGOZXWIpygO06mpug31RBcPH56
+
+- the reference app (by KS)
+- set handler for click on the map 
+- set info window to be e[infoWindowContent]
+
+
+
