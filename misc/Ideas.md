@@ -19,6 +19,7 @@
 * [Mathematics of Poker, Chen, Ankenman](http://amzn.to/2dH2cHv)
 * Blink, Malcolm Gladwell 
 * [Less is More](http://amzn.to/2fdvumm)
+* [Terry Sawchuk biography](http://amzn.to/2eX9AmQ)
 * [How Will You Measure Your Life?](http://amzn.to/2eE8WHX)
 * [Designing Your Life](http://amzn.to/2cGmpxE)
 
