@@ -12,6 +12,8 @@
 * [1980s easy piano](http://bit.ly/2dH0je2)
 * [Simply Chopin](http://bit.ly/2e8su6G)
 * [Simply Beethoven](http://bit.ly/2eJpCPb)
+* [VH1 Greatest Songs of Rock n Roll](http://bit.ly/2ezRkfY)
+* [Van Halen Keyboard Book](http://bit.ly/2fcMlmx)
 
 #### books
 
