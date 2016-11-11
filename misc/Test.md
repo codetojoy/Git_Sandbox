@@ -20,7 +20,7 @@ height="40" width="80"></img>
 
 #### Canadian Naval Ensign
 <a href="https://en.wikipedia.org/wiki/Canadian_Naval_Ensign">
-    <img src="https://en.wikipedia.org/wiki/Canadian_Naval_Ensign#/media/File:Naval_Ensign_of_Canada.svg" height="40" width="80"></img>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Naval_Ensign_of_Canada.svg" height="40" width="80"></img>
 </a>
 
 #### Royal Canadian Air Force Ensign
