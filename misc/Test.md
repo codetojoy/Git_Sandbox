@@ -42,6 +42,11 @@ height="40" width="80"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Royal_Canadian_Air_Force_ensign.svg" height="40" width="80"></img>
 </a>
 
+#### Royal Canadian Legion
+<a href="http://www.legion.ca/who-we-are/ritual-and-awards/flag-protocol">
+    <img src="http://www.legion.ca/wp-content/uploads/2014/05/LegionBanner-370x245.jpg" height="40" width="80"></img>
+</a>
+
 #### Royal Canadian Mounted Police (RCMP)
 <a href="https://en.wikipedia.org/wiki/Royal_Canadian_Mounted_Police">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_RCMP.svg" height="40" width="80"></img>
