@@ -10,6 +10,7 @@ height="40" width="80"></img>
 </a>
 -->
 
+<!-- #1 -->
 #### Canada
 <a href="https://en.wikipedia.org/wiki/Flag_of_Canada">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png" height="40" width="80"></img>
@@ -25,14 +26,30 @@ height="40" width="80"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Naval_Ensign_of_Canada.svg" height="40" width="80"></img>
 </a>
 
+#### Charlottetown
+<a href="https://en.wikipedia.org/wiki/Charlottetown">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Charlottetown.svg" height="40" width="80"></img>
+</a>
+
 #### North Atlantic Treaty Organization (NATO)
 <a href="https://en.wikipedia.org/wiki/Flag_of_NATO">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Flag_of_NATO.svg" height="40" width="80"></img>
 </a>
 
+<!-- #6 -->
 #### Royal Canadian Air Force Ensign
 <a href="https://en.wikipedia.org/wiki/Royal_Canadian_Air_Force_Ensign">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Royal_Canadian_Air_Force_ensign.svg" height="40" width="80"></img>
+</a>
+
+#### Royal Canadian Mounted Police (RCMP)
+<a href="https://en.wikipedia.org/wiki/Royal_Canadian_Mounted_Police">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_RCMP.svg" height="40" width="80"></img>
+</a>
+
+#### Royal Union Flag
+<a href="https://en.wikipedia.org/wiki/Union_Jack">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" height="40" width="80"></img>
 </a>
 
 #### United Nations
@@ -40,7 +57,6 @@ height="40" width="80"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_United_Nations.svg" height="40" width="80"></img>
 </a>
 
-* Charlottetown
 * Red Ensign
 * Royal Canadian Legion
 * Union Jack
