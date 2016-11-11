@@ -2,29 +2,33 @@
 ### Flags
 
 <!--
-<img src="" height="40" width="80">
-</img>
+<a href="
+<img src=" 
+height="40" width="80"></img>
+</a>
 -->
 
 #### Canada
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png" height="40" width="80">
-</img>
-
-* [Wikipedia page](https://en.wikipedia.org/wiki/Flag_of_Canada)
-
-#### Royal Canadian Air Force Ensign
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Royal_Canadian_Air_Force_ensign.svg" height="40" width="80">
-</img>
-
-* [Wikipedia page](https://en.wikipedia.org/wiki/Royal_Canadian_Air_Force_Ensign)
+<a href="https://en.wikipedia.org/wiki/Flag_of_Canada">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png" height="40" width="80"></img>
+</a>
 
 #### Canadian Forces
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Canadian_Forces_Flag.svg" height="40" width="80">
-</img>
+<a href="https://en.wikipedia.org/wiki/Canadian_Armed_Forces">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Canadian_Forces_Flag.svg" height="40" width="80"></img>
+</a>
 
-* [Wikipedia page](https://en.wikipedia.org/wiki/Canadian_Armed_Forces)
+#### Canadian Naval Ensign
+<a href="https://en.wikipedia.org/wiki/Canadian_Naval_Ensign">
+    <img src="https://en.wikipedia.org/wiki/Canadian_Naval_Ensign#/media/File:Naval_Ensign_of_Canada.svg" height="40" width="80"></img>
+</a>
 
-* OCanadian Navy
+#### Royal Canadian Air Force Ensign
+<a href="https://en.wikipedia.org/wiki/Royal_Canadian_Air_Force_Ensign">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Royal_Canadian_Air_Force_ensign.svg" height="40" width="80"></img>
+</a>
+
+* Canadian Navy
 * Charlottetown
 * NATO
 * Red Ensign
