@@ -11,7 +11,7 @@
 </img>
 
 #### Royal Canadian Air Force Ensign
-<img src="https://en.wikipedia.org/wiki/List_of_Canadian_flags#/media/File:Royal_Canadian_Air_Force_ensign.svg" height="100" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Royal_Canadian_Air_Force_ensign.svg" height="100" width="200">
 </img>
 
 * Canadian Navy
