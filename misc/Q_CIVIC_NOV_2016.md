@@ -69,3 +69,18 @@ last_edi_1" type="string"
       <MultiGeometry><LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-63.1662761979017,46.2202481318115 -63.1664061152909,46.2190730015324 -63.1667442682777,46.2173352852241</coordinates></LineString></MultiGeometry>
   </Placemark>
 ```
+
+#### Civic Community
+
+* schema:
+```
+"COMM_NM" type="string"
+"COUNTY" type="string"
+"UNIQUE_ID" type="string"
+"last_edi_1" type="string"
+```
+
+* example:
+```
+N/A
+```
