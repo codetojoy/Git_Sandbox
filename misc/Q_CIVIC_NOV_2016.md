@@ -41,3 +41,31 @@ last_edi_1" type="string"
       <Point><coordinates>-63.1898607720984,46.2492993586618</coordinates></Point>
   </Placemark>
 ```
+
+#### Civic Roads
+
+* schema:
+```
+"OWNERSHIP" type="string"
+"MUNICIPALI" type="string"
+"COMMUNITY" type="string"
+"ROAD_STATU" type="string"
+"LENGTH_MET" type="float"
+"last_edi_1" type="string"
+```
+
+* example:
+
+```
+  <Placemark>
+    <name>YORK POINT RD</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#CivicRoads">
+        <SimpleData name="OWNERSHIP">MUNICIPAL-PUBLIC</SimpleData>
+        <SimpleData name="MUNICIPALI">CORNWALL</SimpleData>
+        <SimpleData name="COMMUNITY">CORNWALL</SimpleData>
+        <SimpleData name="LENGTH_MET">325.09000000000</SimpleData>
+    </SchemaData></ExtendedData>
+      <MultiGeometry><LineString><altitudeMode>clampToGround</altitudeMode><coordinates>-63.1662761979017,46.2202481318115 -63.1664061152909,46.2190730015324 -63.1667442682777,46.2173352852241</coordinates></LineString></MultiGeometry>
+  </Placemark>
+```
