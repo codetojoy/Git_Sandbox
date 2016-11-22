@@ -24,7 +24,7 @@ last_edi_1" type="string"
 
 * example:
 
-<pre>
+```
   <Placemark>
     <ExtendedData><SchemaData schemaUrl="#Civic">
         <SimpleData name="X_COORD">385359.13299999997</SimpleData>
@@ -40,5 +40,4 @@ last_edi_1" type="string"
     </SchemaData></ExtendedData>
       <Point><coordinates>-63.1898607720984,46.2492993586618</coordinates></Point>
   </Placemark>
-</pre>
-
+```
