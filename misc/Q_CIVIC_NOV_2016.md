@@ -9,17 +9,17 @@
 
 * schema:
 <pre>
-<name="X_COORD" type="float">
-<name="Y_COORD" type="float">
-<name="STREET_NO" type="float">
-<name="STREET_NM" type="string">
-<name="COMM_NM" type="string">
-<name="COUNTY" type="string">
-<name="PID" type="float">
-<name="SERIAL" type="string">
-<name="ESZ" type="string">
-<name="UNIQUE_ID" type="string">
-<name="last_edi_1" type="string">
+X_COORD" type="float"
+Y_COORD" type="float"
+STREET_NO" type="float"
+STREET_NM" type="string"
+COMM_NM" type="string"
+COUNTY" type="string"
+PID" type="float"
+SERIAL" type="string"
+ESZ" type="string"
+UNIQUE_ID" type="string"
+last_edi_1" type="string"
 </pre>
 
 * example:
