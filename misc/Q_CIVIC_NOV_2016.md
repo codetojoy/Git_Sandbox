@@ -5,6 +5,7 @@
 * Q: licensing, reposting in KML?
 * Q: metadata explanation
 * Q: foreign key relationship ??
+* Q: what are `master_ca.txt` and `master_msag.txt`
 
 #### Civic Coords 
 
