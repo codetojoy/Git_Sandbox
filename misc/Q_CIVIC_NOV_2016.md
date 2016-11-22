@@ -4,6 +4,7 @@
 * [main page](http://www.gov.pe.ca/gis/index.php3?number=77553&lang=E)
 * Q: licensing, reposting in KML?
 * Q: metadata explanation
+* Q: foreign key relationship ??
 
 #### Civic Coords 
 
