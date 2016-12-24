@@ -8,19 +8,46 @@
 </head>
 <body>
 
-<ui data-role="listview" data-inset="true">
-    <li data-role="list-divider">08:00 am</li>
-    <li>
-        <h2>Event 1</h2>
-        <p>Description goes here</p>
-    </li>
-    <!-- ################### -->
-    <li data-role="list-divider">09:00 am</li>
-    <li>
-        <h2>Event 2</h2>
-        <p>Description goes here</p>
-    </li>
-<ui/>
+<div data-role="collapsibleset" data-theme="a" data-inset="false">
+    <div data-role="collapsible">
+        <h2>AM events</h2>
+        <ui data-role="listview" data-inset="true">
+            <li data-role="list-divider">8:00 am</li>
+            <li>
+                <h2>Event 1</h2>
+                <p>Description goes here</p>
+            </li>
+            <li data-role="list-divider">9:00 am</li>
+            <li>
+                <h2>Event 2</h2>
+                <p>Description goes here</p>
+            </li>
+        <ui/>
+    </div>
+    <div data-role="collapsible">
+        <h2>PM events</h2>
+        <ui data-role="listview" data-inset="true">
+            <li data-role="list-divider">1:00 pm</li>
+            <li>
+                <h2>Event 1</h2>
+                <p>Description goes here</p>
+            </li>
+            <li data-role="list-divider">2:00 pm</li>
+            <li>
+                <h2>Event 2</h2>
+                <p>Description goes here</p>
+            </li>
+        <ui/>
+    </div>
+    <div data-role="collapsible">
+        <h2>Attribution</h2>
+        <ui data-role="listview" data-inset="true">
+            <li>
+                <p>Credit Info here</p>
+            </li>
+        <ui/>
+    </div>
+</div>
 
 </body>
 </html>
