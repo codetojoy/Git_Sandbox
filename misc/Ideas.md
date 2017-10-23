@@ -30,3 +30,8 @@
 * Columbia winter beanie such as [this](https://www.columbiasportswear.ca/en/cascade-peak-beanie-1693391.html?dwvar_1693391_variationColor=010#start=2)
 * [Wikipedia shirt](https://store.wikimedia.org/products/black-wikipedia-globe-t-shirt-with-wikipedia-written-in-multiple-languages) - probably size Large
 
+#### favourite places
+
+* Receiver Coffee
+* Freshii
+* Tim's
