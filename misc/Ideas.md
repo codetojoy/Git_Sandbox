@@ -1,5 +1,5 @@
 
-### Some ideas
+### Some ideas 2017
 
 #### sheet music
 
@@ -10,19 +10,23 @@
 #### music books
 
 * [1980s easy piano](http://bit.ly/2dH0je2)
-* [Simply Chopin](http://bit.ly/2e8su6G)
 * [Simply Beethoven](http://bit.ly/2eJpCPb)
-* [VH1 Greatest Songs of Rock n Roll](http://bit.ly/2ezRkfY)
-* [Van Halen Keyboard Book](http://bit.ly/2fcMlmx)
+* [Simply Bach](http://www.sheetmusicplus.com/title/simply-bach-sheet-music/19260718)
+* [Simply Big Band](http://www.sheetmusicplus.com/title/simply-big-band-sheet-music/18742925)
 
 #### books
 
-* [The Undoing Project, Michael Lewis](http://amzn.to/2dGw0Jj)
-* [Mathematics of Poker, Chen, Ankenman](http://amzn.to/2dH2cHv)
-* Blink, Malcolm Gladwell 
-* [Less is More](http://amzn.to/2fdvumm)
+* [Misbehaving](http://amzn.to/2y0sZZI) by Richard Thaler
 * [Terry Sawchuk biography](http://amzn.to/2eX9AmQ)
-* [Lights Out](http://amzn.to/2f5LX9T), Ted Koppel, now in paperback
-* [How Will You Measure Your Life?](http://amzn.to/2eE8WHX)
-* [Designing Your Life](http://amzn.to/2cGmpxE)
+* [Thinking Fast and Slow](http://amzn.to/2h3KR09) by Daniel Kahneman
+* [What Jesus Meant](http://amzn.to/2yIJg7s) by Garry Wills
+* [What The Gospels Meant](http://amzn.to/2gxEEZr) by Garry Wills
+* [What the Dog Saw](http://amzn.to/2xiI756) by Malcolm Gladwell
+
+#### clothing
+
+* flannel shirt at Mark's Work WH
+* pants at Mark's or Old Navy, especially with flannel sewn inside
+* Columbia winter beanie such as [this](https://www.columbiasportswear.ca/en/cascade-peak-beanie-1693391.html?dwvar_1693391_variationColor=010#start=2)
+* [Wikipedia shirt](https://store.wikimedia.org/products/black-wikipedia-globe-t-shirt-with-wikipedia-written-in-multiple-languages) - probably size Large
 
