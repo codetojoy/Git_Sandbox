@@ -1,12 +1,6 @@
 
 ### Some ideas 2017
 
-#### sheet music
-
-* [I'll Never Smile Again](http://bit.ly/2dGvjzu)
-* [Brandy](http://bit.ly/2dH1KJg)
-* [Stray Cat Strut](http://bit.ly/2f5wdXl)
-
 #### music books
 
 * [1980s easy piano](http://bit.ly/2dH0je2)
@@ -25,9 +19,9 @@
 
 #### clothing
 
+* Columbia winter beanie such as [this](https://www.columbiasportswear.ca/en/cascade-peak-beanie-1693391.html?dwvar_1693391_variationColor=010#start=2)
 * flannel shirt at Mark's Work WH
 * pants at Mark's or Old Navy, especially with flannel sewn inside
-* Columbia winter beanie such as [this](https://www.columbiasportswear.ca/en/cascade-peak-beanie-1693391.html?dwvar_1693391_variationColor=010#start=2)
 * [Wikipedia shirt](https://store.wikimedia.org/products/black-wikipedia-globe-t-shirt-with-wikipedia-written-in-multiple-languages) - probably size Large
 
 #### favourite places
@@ -35,3 +29,9 @@
 * Receiver Coffee
 * Freshii
 * Tim's
+
+#### sheet music
+
+* [I'll Never Smile Again](http://bit.ly/2dGvjzu)
+* [Brandy](http://bit.ly/2dH1KJg)
+* [Stray Cat Strut](http://bit.ly/2f5wdXl)
