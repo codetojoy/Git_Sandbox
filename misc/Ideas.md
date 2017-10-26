@@ -16,6 +16,7 @@
 
 #### books
 
+* [All We Leave Behind](https://www.chapters.indigo.ca/en-ca/books/all-we-leave-behind-a/9780345816832-item.html) by Carol Off
 * [Misbehaving](http://amzn.to/2y0sZZI) by Richard Thaler
 * [Terry Sawchuk biography](http://amzn.to/2eX9AmQ)
 * [Thinking Fast and Slow](http://amzn.to/2h3KR09) by Daniel Kahneman
