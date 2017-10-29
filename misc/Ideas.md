@@ -16,12 +16,13 @@
 
 #### books
 
+* [Martin Luther: Renegade and Prophet](http://amzn.to/2zPGsES) by Lyndal Roper
 * [Misbehaving](http://amzn.to/2y0sZZI) by Richard Thaler
-* [Terry Sawchuk biography](http://amzn.to/2eX9AmQ)
-* [Thinking Fast and Slow](http://amzn.to/2h3KR09) by Daniel Kahneman
 * [What Jesus Meant](http://amzn.to/2yIJg7s) by Garry Wills
 * [What The Gospels Meant](http://amzn.to/2gxEEZr) by Garry Wills
 * [What the Dog Saw](http://amzn.to/2xiI756) by Malcolm Gladwell
+* [Terry Sawchuk biography](http://amzn.to/2eX9AmQ)
+* [Thinking Fast and Slow](http://amzn.to/2h3KR09) by Daniel Kahneman
 
 #### music books
 
