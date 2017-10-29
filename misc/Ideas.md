@@ -16,7 +16,7 @@
 
 #### books
 
-* [Martin Luther: Renegade and Prophet](http://amzn.to/2zPGsES) by Lyndal Roper
+* [All We Leave Behind](https://www.chapters.indigo.ca/en-ca/books/all-we-leave-behind-a/9780345816832-item.html) by Carol Off
 * [Misbehaving](http://amzn.to/2y0sZZI) by Richard Thaler
 * [What Jesus Meant](http://amzn.to/2yIJg7s) by Garry Wills
 * [What The Gospels Meant](http://amzn.to/2gxEEZr) by Garry Wills
